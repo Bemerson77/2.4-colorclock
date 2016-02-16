@@ -1,0 +1,15 @@
+/* Bootstrap Variables */
+$icon-font-path: "../bower_components/bootstrap-sass/assets/fonts/bootstrap/";
+
+/* Import Bootstrap */
+@import "../bower_components/bootstrap-sass/assets/stylesheets/bootstrap";
+
+#clock {
+  background-color: green;
+  color: white;
+  height: 1000px;
+  width: 100%;
+  line-height: 1000px;
+  text-align: center;
+  font-size: 100px;
+}
